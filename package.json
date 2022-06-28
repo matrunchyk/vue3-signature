@@ -1,5 +1,5 @@
 {
-  "name": "vue3-signature",
+  "name": "vue3-signature-exposed",
   "description": "Electronic signature for Vue3",
   "version": "0.1.18",
   "author": "Shayne Wang <1614565666@qq.com>",
